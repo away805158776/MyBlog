@@ -1,0 +1,5 @@
+# 封面配置
+# enable-是否启用封面；path-封面背景图；logo-封面logo
+cover:
+  enable: true
+  path: /MyBlog/images/cover1.jpg

@@ -13,7 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://away805158776.github.io/
+url: https://away805158776.github.io/MyBlog
+root: /MyBlog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -101,4 +102,13 @@ theme: ayer
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: https://github.com/away805158776/MyBlog.git
+  branch: gh-pages  
+
+# theme config
+theme_config:
+  cover:
+    enable: true
+    path: /MyBlog/images/cover1.jpg # main cover pic
+  logo: /MyBlog/images/ayer-side.svg
