@@ -106,9 +106,17 @@ deploy:
   repo: https://github.com/away805158776/MyBlog.git
   branch: gh-pages  
 
-# theme config
-theme_config:
-  cover:
-    enable: true
-    path: /MyBlog/images/cover1.jpg # main cover pic
-  logo: /MyBlog/images/ayer-side.svg
+# # theme config
+# theme_config:
+#   cover:
+#     enable: true
+#     path: /MyBlog/images/cover1.jpg # main cover pic
+#   logo: /MyBlog/images/ayer-side.svg
+
+# RSS Subscription
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content: true
