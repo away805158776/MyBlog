@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Hi</title>
   
   
   <link href="https://away805158776.github.io/MyBlog/atom.xml" rel="self"/>
   
   <link href="https://away805158776.github.io/MyBlog/"/>
-  <updated>2025-06-17T07:41:50.572Z</updated>
+  <updated>2025-06-17T08:07:52.467Z</updated>
   <id>https://away805158776.github.io/MyBlog/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Johnson Qu</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>シャドーバン</title>
-    <link href="https://away805158776.github.io/MyBlog/2025/06/17/%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%83%90%E3%83%B3/"/>
-    <id>https://away805158776.github.io/MyBlog/2025/06/17/%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%83%90%E3%83%B3/</id>
+    <title>シャドウバン</title>
+    <link href="https://away805158776.github.io/MyBlog/2025/06/17/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%90%E3%83%B3/"/>
+    <id>https://away805158776.github.io/MyBlog/2025/06/17/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%90%E3%83%B3/</id>
     <published>2025-06-17T07:35:39.000Z</published>
-    <updated>2025-06-17T07:41:50.572Z</updated>
+    <updated>2025-06-17T08:07:52.467Z</updated>
     
     <content type="html"><![CDATA[<p>中文意思：隐性屏蔽&#x2F;隐性封禁<br>来源：主要是推特有隐性屏蔽等功能，看上去就像自己评论什么的发出了但实际上其他人看不到。</p>]]></content>
     
